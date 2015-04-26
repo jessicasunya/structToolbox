@@ -11,11 +11,15 @@ http://www.policy-lab.org/structToolbox
 
 Quality Assurance:
 
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/structToolbox/structToolbox.svg?branch=master)](https://travis-ci.org/structToolbox/structToolbox) [![Coverage Status](https://coveralls.io/repos/peisenha/structToolbox/badge.png)](https://coveralls.io/r/peisenha/structToolbox)
+=======
+[![Build Status](https://travis-ci.org/structToolbox/structToolbox.svg?branch=master)](https://travis-ci.org/structToolbox/structToolbox)[![Coverage Status](https://coveralls.io/repos/peisenha/structToolbox/badge.png)](https://coveralls.io/r/peisenha/structToolbox)
+>>>>>>> 4c2c3ca5b8e2aac9cc1efa339a5c982a6f4c9252
 
 Contact:
 
-[![Join the chat at https://gitter.im/peisenha/structToolbox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peisenha/structToolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/structToolbox/structToolbox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/structToolbox/structToolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Please sign up for our [mailing list](http://eepurl.com/RStEH).
 
