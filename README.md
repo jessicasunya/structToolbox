@@ -11,7 +11,7 @@ http://www.policy-lab.org/structToolbox
 
 Quality Assurance:
 
-[![Build Status](https://travis-ci.org/peisenha/structToolbox.svg?branch=master)](https://travis-ci.org/peisenha/structToolbox) [![Coverage Status](https://coveralls.io/repos/peisenha/structToolbox/badge.png)](https://coveralls.io/r/peisenha/structToolbox)
+[![Build Status](https://travis-ci.org/structToolbox/structToolbox.svg?branch=master)](https://travis-ci.org/structToolbox/structToolbox)[![Coverage Status](https://coveralls.io/repos/peisenha/structToolbox/badge.png)](https://coveralls.io/r/peisenha/structToolbox)
 
 Contact:
 
