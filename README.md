@@ -1,8 +1,6 @@
 structToolbox
 ============= 
 
-[![Join the chat at https://gitter.im/peisenha/structToolbox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peisenha/structToolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Toolbox for the illustration of responsible structural estimation. Building on the illustrative model from:
 
 Michael P. Keane, Petra E. Todd, and Kenneth I. Wolpin (2011). The Structural Estimation of Behavioral Models: Discrete Choice Dynamic Programming Methods and Applications, *Handbook of Labor Economics*, Elsevier. 
@@ -13,7 +11,7 @@ http://www.policy-lab.org/structToolbox
 
 Contact:
 
-info@policy-lab.org
+[![Join the chat at https://gitter.im/peisenha/structToolbox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peisenha/structToolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 You can sign up for our mailing list [here](http://eepurl.com/RStEH).
 
