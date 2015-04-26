@@ -17,7 +17,7 @@ Contact:
 
 [![Join the chat at https://gitter.im/peisenha/structToolbox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peisenha/structToolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-You can sign up for our mailing list [here](http://eepurl.com/RStEH).
+Please sign up for our [mailing list](http://eepurl.com/RStEH).
 
 ====
 
