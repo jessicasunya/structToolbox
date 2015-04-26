@@ -9,13 +9,15 @@ Online Documentation:
 
 http://www.policy-lab.org/structToolbox
 
+Quality Assurance:
+
+[![Build Status](https://travis-ci.org/peisenha/structToolbox.svg?branch=master)](https://travis-ci.org/peisenha/structToolbox) [![Coverage Status](https://coveralls.io/repos/peisenha/structToolbox/badge.png)](https://coveralls.io/r/peisenha/structToolbox)
+
 Contact:
 
 [![Join the chat at https://gitter.im/peisenha/structToolbox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peisenha/structToolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 You can sign up for our mailing list [here](http://eepurl.com/RStEH).
-
-[![Build Status](https://travis-ci.org/peisenha/structToolbox.svg?branch=master)](https://travis-ci.org/peisenha/structToolbox) [![Coverage Status](https://coveralls.io/repos/peisenha/structToolbox/badge.png)](https://coveralls.io/r/peisenha/structToolbox)
 
 ====
 
