@@ -7,7 +7,7 @@ Michael P. Keane, Petra E. Todd, and Kenneth I. Wolpin (2011). The Structural Es
 
 Online Documentation:
 
-http://www.policy-lab.org/structToolbox
+http://structToolbox.github.io
 
 Quality Assurance:
 
