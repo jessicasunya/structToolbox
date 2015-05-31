@@ -1,3 +1,5 @@
 coveralls
+numpy
 scipy
 pandas
+nose

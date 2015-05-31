@@ -15,7 +15,7 @@ Quality Assurance:
 
 Contact:
 
-[![Join the chat at https://gitter.im/structToolbox/structToolbox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/structToolbox/structToolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/structToolbox/contact](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/structToolbox/contact?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 Please sign up for our [mailing list](http://eepurl.com/RStEH).
 
