@@ -212,7 +212,8 @@ SUBROUTINE wrapper_normal_multivariate_rv(rslt, numDev, numDim, mean, cov)
     DOUBLE PRECISION, INTENT(OUT)       :: rslt(numDev, numDim)
 
     DOUBLE PRECISION, INTENT(IN)        :: mean(:)
-    DOUBLE PRECISION, INTENT(IN)        :: cov(:,:)
+    
+DOUBLE PRECISION, INTENT(IN)        :: cov(:,:)
 
     INTEGER, INTENT(IN)                 :: numDev
     INTEGER, INTENT(IN)                 :: numDim
